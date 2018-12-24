@@ -1,0 +1,31 @@
+
+.header{
+
+    color: rgb(57, 0, 100);
+    /* text-align: center; */
+}
+
+.paragraph{
+
+    color: rgb(2, 47, 47);
+    /* text-align: center; */
+}
+
+body{
+    
+    background-color: lightgoldenrodyellow;
+}
+
+img {
+    width: 200px;
+  }
+  
+* {
+    /* border: 2px solid gold; */
+    /* font-style: "Comic Sans"; */
+    text-align: center;
+  }
+
+  button {
+    margin: 20px;
+  }
